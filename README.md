@@ -3,7 +3,7 @@
         <title>Слесарьтехника</title>
     </head>
     <body>
-        <p align="center"><font size="1000" color="cyan" face="Arial">Общий курс слесарного дела</font></p>
+        <p align="center"><font size="1000" color="cyan" face="Arial">Тема 2: Разметка</font></p>
         <style>
            body{
             background:rgb(111, 128, 51);
